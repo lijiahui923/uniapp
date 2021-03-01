@@ -1,8 +1,9 @@
 import config from '../config';
 import auth from './auth/index.js';
-
+import test from './test/index.js'
 let collection = [
-    auth
+    auth,
+	test
 ];
 
 function arrangeInterfacesObject () {
