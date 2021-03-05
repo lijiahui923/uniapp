@@ -47,7 +47,7 @@
 		margin-top: 6rpx;
 	}
 	.movie-score {
-		font-size: 12rpx;
+		font-size: 12px;
 		color: #999999;
 		margin-left: 8rpx;
 	}
